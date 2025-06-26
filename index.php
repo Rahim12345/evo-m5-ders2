@@ -9,6 +9,8 @@
 
 <body>
     <h1>Git dersleri</h1>
+    <p>Bu sayfa, Git dersleri için hazırlanmıştır.</p>
+    <p>Bu sayfada, Git ile ilgili temel bilgiler ve komutlar yer</p>
 
 </body>
 
